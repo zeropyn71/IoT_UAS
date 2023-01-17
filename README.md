@@ -1,7 +1,7 @@
 ### (UAS) Mobile & Internet of Things (C)
 
-NPM : 5200411328 /n
-Nama : Ragil Aldyansyah
+- NPM : 5200411328
+- Nama : Ragil Aldyansyah
 
 
 ### Description Project
